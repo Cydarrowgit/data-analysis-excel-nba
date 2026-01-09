@@ -3,7 +3,9 @@ Analyse et visualisation de données NBA avec Excel, réalisée dans le cadre d�
 
 ## Contexte
 Projet réalisé dans le cadre du bootcamp Analyse de données d’OpenClassrooms.  
-Le projet consistait à analyser une base de données NBA afin de produire des analyses et visualisations compréhensibles pour une équipe de club.
+Dans ce scénario, je rejoins une Entreprise de Services Numériques (ESN) en tant que consultant Business Analyst Junior pour accompagner un club de basket semi-professionnel, Les Pionniers.
+
+Le club souhaite exploiter ses données de performance afin d’optimiser ses résultats sportifs et viser une montée en division supérieure sur les prochaines saisons. Le projet consiste à analyser une base de données NBA et à produire des analyses et visualisations compréhensibles pour les équipes du club.
 
 ## Objectif
 Comprendre un jeu de données inconnu, analyser des statistiques NBA et présenter les principaux enseignements à l’aide d’un support clair et visuel.
@@ -29,4 +31,5 @@ Comprendre un jeu de données inconnu, analyser des statistiques NBA et présent
 - Préparation d’un support de présentation synthétisant les analyses réalisées
 
 ## Résultat
-Un support de présentation clair et structuré permettant de comprendre rapidement les principales statistiques et tendances issues des données NBA, destiné à un public non technique.
+Un support de présentation clair et structuré, destiné aux équipes du club Les Pionniers, permettant de comprendre rapidement les principales statistiques et tendances issues des données NBA.  
+Les visualisations facilitent l’analyse de la performance sportive et servent de base à la réflexion pour l’optimisation des résultats sur les prochaines saisons.
